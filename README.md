@@ -1,1 +1,1 @@
-# wodeck
+Learning, exploring, and growing—one line of code at a time.
