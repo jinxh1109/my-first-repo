@@ -1,1 +1,1 @@
-Learning, exploring, and growing—one line of code at a time.
+https://github.com/jinxh1109/my-first-repo.git
